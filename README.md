@@ -99,6 +99,7 @@ localhost:9200/nba
 ```
 
 - 响应
+
 ```json
 {
     "nba": {
@@ -142,6 +143,9 @@ localhost:9200/cba,nba
 ```
 
 -响应
+
+<details>
+	
 ```json
 {
     "cba": {
@@ -178,6 +182,7 @@ localhost:9200/cba,nba
     }
 }
 ```
+</details>
 
 #### 2.6 获取全部索引 GET请求
 
